@@ -1,6 +1,6 @@
-# Matchmaker UI 💘
+# Portfolio site
 
-A fun tinder knockoff type of dating website.
+A Beautiful Portfolio website made to be like a main type of website 
 
 ## Live Demo
 https://deving508.github.io/main-site/
